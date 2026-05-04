@@ -1,0 +1,116 @@
+/*
+   Localizable.strings (Français)
+   HandToDo
+*/
+
+// MARK: - App Général
+"app.title" = "HandToDo";
+"app.loading" = "Chargement…";
+"app.search" = "Rechercher…";
+"app.newTask" = "Nouvelle tâche (⌘N)";
+"app.settings" = "Réglages";
+
+// MARK: - Commun
+"common.ok" = "OK";
+"common.cancel" = "Annuler";
+"common.delete" = "Effacer";
+"common.validate" = "Valider";
+"common.close" = "Fermer";
+
+// MARK: - Réglages
+"settings.title" = "Réglages";
+"settings.language" = "Langue";
+
+// MARK: - Onglets
+"tab.tasks" = "Tâches";
+"tab.notes" = "Notes";
+
+// MARK: - Statuts
+"status.todo" = "À faire";
+"status.doing" = "En cours";
+"status.done" = "Terminées";
+
+// MARK: - Tableau de bord
+"dashboard.selectTask" = "Sélectionne une tâche";
+"dashboard.overdue" = "En retard";
+"dashboard.clearFilter" = "Effacer le filtre";
+"empty.selectTask" = "Sélectionne une tâche";
+
+// MARK: - Détail Tâche
+"task.title.nav" = "Tâche";
+"task.typedTitle.placeholder" = "Titre (clavier)";
+"task.status.label" = "Statut";
+"task.due.toggle" = "Définir une échéance";
+"task.due.picker" = "Date de fin souhaitée";
+"task.noDueDate" = "Sans échéance";
+"task.note.label" = "Note";
+"task.color.label" = "Couleur";
+
+// MARK: - Couleurs Tâches
+"task.color.none" = "Aucune";
+"task.color.orange" = "Orange";
+"task.color.red" = "Rouge";
+
+// MARK: - Manuscrit (Tâches)
+"task.hand.title.label" = "Titre manuscrit";
+"task.hand.body.label" = "Manuscrit (notes)";
+"task.hand.recognized.empty" = "Reconnu : —";
+"task.hand.recognized.prefix" = "Reconnu :";
+"task.hand.title.clear.confirmTitle" = "Effacer le titre manuscrit ?";
+"task.hand.title.clear.confirmMsg" = "Cette action supprimera le dessin du titre manuscrit.";
+"task.hand.body.clear.confirmTitle" = "Effacer les notes manuscrites ?";
+"task.hand.body.clear.confirmMsg" = "Cette action supprimera le dessin des notes manuscrites.";
+
+// MARK: - Section Notes
+"notes.section.title" = "Notes";
+"notes.search" = "Rechercher…";
+"notes.new" = "Nouvelle note";
+"notes.select" = "Sélectionnez une note";
+"notes.navTitle" = "Note";
+"notes.typedTitle.placeholder" = "Titre (clavier)";
+"notes.note.label" = "Note";
+
+// MARK: - Manuscrit (Notes)
+"notes.hand.title.label" = "Titre manuscrit";
+"notes.hand.body.label" = "Manuscrit (notes)";
+"notes.hand.recognized.empty" = "Reconnu : —";
+"notes.hand.recognized.prefix" = "Reconnu :";
+"notes.hand.title.clear.confirmTitle" = "Effacer le titre manuscrit ?";
+"notes.hand.title.clear.confirmMsg" = "Cette action supprimera le dessin du titre manuscrit.";
+"notes.hand.body.clear.confirmTitle" = "Effacer les notes manuscrites ?";
+"notes.hand.body.clear.confirmMsg" = "Cette action supprimera le dessin des notes manuscrites.";
+
+// MARK: - Dates (Format Relatif)
+"date.today" = "Aujourd'hui";
+"date.yesterday" = "Hier";
+"date.tomorrow" = "Demain";
+"date.nextWeek" = "Semaine prochaine";
+"date.lastWeek" = "Semaine dernière";
+"date.inDays" = "Dans %d jours";
+"date.daysAgo" = "Il y a %d jours";
+
+// MARK: - Dates (Format Court)
+"date.today.short" = "Auj.";
+"date.yesterday.short" = "Hier";
+"date.tomorrow.short" = "Dem.";
+
+// MARK: - Vues
+"view.kanban" = "Kanban";
+"view.calendar" = "Calendrier";
+"view.list" = "Liste";
+"view.close" = "Fermer";
+
+// MARK: - Vue Kanban
+"kanban.noTasks" = "Aucune tâche";
+"kanban.dragHint" = "Glissez les tâches entre les colonnes";
+
+// MARK: - Vue Calendrier
+"calendar.noTasks" = "Aucune tâche";
+"calendar.tasksCount" = "%d tâche(s)";
+"calendar.selectDate" = "Sélectionnez une date pour voir les tâches";
+
+// MARK: - Sync (CloudKit)
+"sync.syncing" = "Synchronisation...";
+"sync.error" = "Erreur de sync";
+"sync.success" = "Synchronisé";
+"sync.offline" = "Hors ligne";
